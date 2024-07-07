@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# IDE directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Others
+*.swp
+
+# Ignored files
+public/assets/*
+!.gitkeep
+src/**/*.spec.js
+src/**/*.test.js
+src/**/*.stories.js
+
+# Tailwind
+tailwind.config.js
