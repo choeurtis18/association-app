@@ -113,7 +113,7 @@ Association App est une application web de gestion pour une association. Elle pe
 2. Démarrez le serveur backend :
     ```sh
     cd association-api
-    npm start
+    nodemon src/index.js
     ```
 
 ### Démarrer le client frontend
